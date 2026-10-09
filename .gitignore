@@ -1,0 +1,16 @@
+# Raw and derived data: download from Zenodo and rebuild with make_hourly.py
+reduced_dataset.pk
+rolle_hourly.csv
+meter_names.csv
+A.rds
+
+# Large per-forecast outputs (rebuilt by the scripts)
+results_detail.csv
+results_upgrade_detail.csv
+
+# R and OS clutter
+.Rhistory
+.RData
+.Rproj.user/
+desktop.ini
+.DS_Store
